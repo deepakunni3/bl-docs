@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Class: named thing
 ---
 
 
