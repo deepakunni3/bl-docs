@@ -10,7 +10,3 @@ aux_links:
     - "//github.com/biolink/biolink-model"
 
 search_enabled: true
-
-collections:
-  docs:
-    output: true
