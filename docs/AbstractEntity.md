@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Class: named thing
+parent: "Class: named thing"
 ---
 
 
